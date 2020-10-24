@@ -11,3 +11,7 @@ npm i -g cordova   //install cordova
 ionic cordova build android
 
 ionic cordova build android --device
+
+ionic cordova run android --device
+
+npm i -g native-run@latest
