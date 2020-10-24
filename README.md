@@ -16,5 +16,7 @@ ionic cordova run android --device
 
 npm i -g native-run@latest
 
+npm i -g cordova-res
+
 ionic cordova resources android
 
